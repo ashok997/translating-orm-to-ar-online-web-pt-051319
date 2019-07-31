@@ -1,2 +1,0 @@
-dog Class < ActiveRecord::Base
-end
